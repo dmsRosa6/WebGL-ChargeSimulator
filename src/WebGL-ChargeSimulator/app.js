@@ -1,9 +1,3 @@
-/*
-*
-Trabalho realizado por: Diogo Rosa nº57464, Filipe Santo nº58388
-*
-*/
-
 import {loadShadersFromURLS, setupWebGL,buildProgramFromSources } from "../../libs/utils.js"
 import * as MV from "../../libs/MV.js";
 
