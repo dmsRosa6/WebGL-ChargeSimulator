@@ -1,9 +1,3 @@
-/*
-*
-Trabalho realizado por: Diogo Rosa nº57464, Filipe Santo nº58388
-*
-*/
-
 precision highp float;
 uniform vec4 color;
 
